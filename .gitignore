@@ -4,3 +4,6 @@
 # Intellij project files
 *.iml
 .idea/*
+
+# IPython Notebook files
+.ipynb_checkpoints
